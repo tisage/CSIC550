@@ -1,7 +1,11 @@
 # CSIC550
-Machine Learning Course
+This repository contains resources for a machine learning class, including data and figures used in labs and homeworks, which are available to the public.
 
-
-Public Access Usage
-- Data
+## Outline
+- Dataset
 - Figures
+
+v 1.0
+
+Since 2022
+Tianyu Wang, PhD
